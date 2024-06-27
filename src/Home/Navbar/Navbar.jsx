@@ -9,8 +9,8 @@ const Navbar = () => {
             {/* <!-- Left section with logo --> */}
             <div className="flex items-center">
                 <a href="#" className="flex items-center space-x-2">
-                    <div className="w-8 h-8 bg-green-900 rounded-full"></div>  {/*<!-- Replace with your logo --> */}
-                    <span className="text-xl font-bold text-gray-800">Your Platform Name</span>
+                    {/* <div className="w-8 h-8 bg-green-900 rounded-full"></div>   */}
+                    <span className="text-3xl font-bold text-gray-800"><span className='text-green-700'>PK</span> Lancea</span>
                 </a>
             </div>
 

@@ -7,6 +7,7 @@ import ImageGallery from './Home/ImageGallery/ImageGallery'
 import CallUpButton from './Home/CallUpButton/CallUpButton'
 import AboutUs from './Home/AboutUs/AboutUs'
 import Footer from './Home/Footer/Footer'
+import Testimonials from './Home/Testimonials/Testimonials'
 
 const App = () => {
   return (
@@ -33,7 +34,10 @@ const App = () => {
        <CallUpButton />
 
        {/* AboutUs */}
-       <AboutUs />
+       {/* <AboutUs /> */}
+
+       {/* Testimonials */}
+       <Testimonials />
 
        {/* Footer */}
        <Footer />
